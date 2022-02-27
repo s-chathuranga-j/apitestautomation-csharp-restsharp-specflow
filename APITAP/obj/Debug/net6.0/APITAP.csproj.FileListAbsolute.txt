@@ -1,0 +1,12 @@
+/Users/chathurangajayasinghe/RiderProjects/APITAP/APITAP/bin/Debug/net6.0/APITAP.deps.json
+/Users/chathurangajayasinghe/RiderProjects/APITAP/APITAP/bin/Debug/net6.0/APITAP.dll
+/Users/chathurangajayasinghe/RiderProjects/APITAP/APITAP/bin/Debug/net6.0/APITAP.pdb
+/Users/chathurangajayasinghe/RiderProjects/APITAP/APITAP/obj/Debug/net6.0/APITAP.csproj.AssemblyReference.cache
+/Users/chathurangajayasinghe/RiderProjects/APITAP/APITAP/obj/Debug/net6.0/APITAP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chathurangajayasinghe/RiderProjects/APITAP/APITAP/obj/Debug/net6.0/APITAP.AssemblyInfoInputs.cache
+/Users/chathurangajayasinghe/RiderProjects/APITAP/APITAP/obj/Debug/net6.0/APITAP.AssemblyInfo.cs
+/Users/chathurangajayasinghe/RiderProjects/APITAP/APITAP/obj/Debug/net6.0/APITAP.csproj.CoreCompileInputs.cache
+/Users/chathurangajayasinghe/RiderProjects/APITAP/APITAP/obj/Debug/net6.0/APITAP.dll
+/Users/chathurangajayasinghe/RiderProjects/APITAP/APITAP/obj/Debug/net6.0/refint/APITAP.dll
+/Users/chathurangajayasinghe/RiderProjects/APITAP/APITAP/obj/Debug/net6.0/APITAP.pdb
+/Users/chathurangajayasinghe/RiderProjects/APITAP/APITAP/obj/Debug/net6.0/ref/APITAP.dll

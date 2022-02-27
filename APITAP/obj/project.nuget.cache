@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yO5ZZQ7eiAe6ZtaDiLOniryrC1d3QKPsxZxxt4QFlu0cj3b6FD+jt7XOca/g2ZDej4GQDnZY3nuQvmb9tawa1A==",
+  "success": true,
+  "projectFilePath": "/Users/chathurangajayasinghe/RiderProjects/APITAP/APITAP/APITAP.csproj",
+  "expectedPackageFiles": [
+    "/Users/chathurangajayasinghe/.nuget/packages/newtonsoft.json/11.0.2/newtonsoft.json.11.0.2.nupkg.sha512",
+    "/Users/chathurangajayasinghe/.nuget/packages/restsharp/106.15.0/restsharp.106.15.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,22 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=141e660d_002Dd402_002D45d2_002D91bd_002Dc5b8ab6aa33d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Verify with valid GET Bank account number" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::D24A9C37-6FC4-45D5-A2D5-6528F5D8AC56::net6.0::ArvatoAPI.Features.CheckAccountValidityFeature&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=242f5620_002Dc129_002D4adf_002Da8d0_002De23bc3cb3d10/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="BankAccountValidationFeature" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::D24A9C37-6FC4-45D5-A2D5-6528F5D8AC56::net6.0::ArvatoAPI.Features.BankAccountValidationFeature&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::D24A9C37-6FC4-45D5-A2D5-6528F5D8AC56::net6.0::ArvatoAPI.Features.CheckAccountValidityFeature.VerifyWithValidBankAccountNumber&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::D24A9C37-6FC4-45D5-A2D5-6528F5D8AC56::net6.0::ArvatoAPI.Features.CheckAccountValidityFeature.VerifyBankAccountNumberLength&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::D24A9C37-6FC4-45D5-A2D5-6528F5D8AC56::net6.0::ArvatoAPI.Features.CheckAccountValidityFeature&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=756698b0_002D47b0_002D4b1b_002D946d_002D251ea14c8dd5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CalculatorFeature" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::AC5C3B2C-219D-4210-BC86-09C8FDAB3C0D::net6.0::HippoAPI.Features.CalculatorFeature&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::AC5C3B2C-219D-4210-BC86-09C8FDAB3C0D::net6.0::HippoAPI.Features.GetPlaceDetailsFeature&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::D24A9C37-6FC4-45D5-A2D5-6528F5D8AC56::net6.0::ArvatoAPI.Features.BankAccountValidationFeature&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=Arvato/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>
